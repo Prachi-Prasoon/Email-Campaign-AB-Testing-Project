@@ -1,7 +1,7 @@
 # Email Campaign A/B Testing
 
 ## Overview
-This project analyzes an **A/B test on email campaigns** to determine whether a **new landing page (treatment)** improves the conversion rate compared to the **old landing page (control)**. The analysis includes **data cleaning, visualization, hypothesis testing, and confidence interval estimation** to make data-driven recommendations.
+This project analyzes an **A/B test on an email campaign** with **294,000+ users** to determine whether a **new landing page (treatment)** improves the conversion rate compared to the **old landing page (control)**. The analysis includes **data cleaning, visualization, hypothesis testing, and confidence interval estimation** to make data-driven recommendations.
 
 ## Goal
 - Compare conversion rates between the old landing page (control) and the new landing page (treatment).

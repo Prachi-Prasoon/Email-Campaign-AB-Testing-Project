@@ -99,8 +99,7 @@ Instead, it is recommended to:
 
 ## Project Structure
 
-<img width="426" height="567" alt="Screenshot 2026-01-11 181653" src="https://github.com/user-attachments/assets/734513e6-c48f-4ce7-b8d2-22f5755c32ea" />
-
+<img width="263" height="418" alt="image" src="https://github.com/user-attachments/assets/fb715675-2b2d-42bd-b422-2980803774a9" />
 
 
 ---

@@ -99,22 +99,8 @@ Instead, it is recommended to:
 
 ## Project Structure
 
-Email-Campaign-AB-Testing/
-│
-├── data/
-│ └── ab_data.csv
-│
-├── notebooks/
-│ └── ab_testing.ipynb
-│
-├── reports/
-│ └── experiment_summary.md
-│
-├── visuals/
-│ └── conversion_rates.png
-│ └── daily_trends.png
-│
-└── requirements.txt
+<img width="426" height="567" alt="Screenshot 2026-01-11 181653" src="https://github.com/user-attachments/assets/734513e6-c48f-4ce7-b8d2-22f5755c32ea" />
+
 
 
 ---
